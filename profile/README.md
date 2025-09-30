@@ -25,12 +25,12 @@
 <br>
 
 ### ⚙️ Architecture
-![Architecture](https://github.com/ssafy13th-common/.github/profile/assets/architecture.png)
+![Architecture](https://github.com/ssafy13th-common/.github/blob/main/profile/assets/architecture.png)
 
 <br>
 
 ### 🧩 ERD
-![ERD](https://github.com/ssafy13th-common/.github/profile/assets/erd.png)
+![ERD](https://github.com/ssafy13th-common/.github/blob/main/profile/assets/erd.png)
 
 <br>
 
