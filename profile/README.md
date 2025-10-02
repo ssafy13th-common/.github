@@ -25,7 +25,13 @@
 <br>
 
 ### ⚙️ Architecture
-![Architecture](https://github.com/ssafy13th-common/.github/blob/main/profile/assets/architecture.png)
+| 기존 아키텍처 | 새로운 아키텍처 |
+|--------------|----------------|
+| ![Architecture](https://github.com/ssafy13th-common/.github/blob/main/profile/assets/architecture.png) | ![New Architecture](https://github.com/ssafy13th-common/.github/blob/main/profile/assets/new_architecture.png) |
+
+#### 아키텍처 변화 요약
+- **기존**: 하나의 서버에서 Docker Container를 활용하여 여러 서비스를 실행
+- **변경**: 서비스별로 서버를 분리하고, VPC 내에서 Subnet을 나누어 구성
 
 <br>
 
